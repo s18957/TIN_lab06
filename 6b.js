@@ -1,0 +1,3 @@
+setTimeout(function () {
+    document.getElementById('paragraph').innerHTML += 'Integer rhoncus sit amet tortor at facilisis. Pellentesque ullamcorper vel enim nec consectetur. Etiam aliquam dui a nunc sodales semper. Sed malesuada metus dolor, a ultricies felis laoreet vel. Suspendisse a neque mollis, euismod urna quis, tincidunt nulla. Curabitur at libero dui. Ut imperdiet, mauris at convallis rhoncus, tortor lectus vulputate lorem, non interdum magna nulla eu leo. Nunc sit amet tempor metus.';
+}, 5000)
